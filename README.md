@@ -26,7 +26,7 @@ Hosting: VPS (if deployed online)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/youtube-downloader.git
+git clone https://github.com/sachinandan-05/youtube-downloader.git
 cd youtube-downloader
 
 2️⃣ Create a Virtual Environment
