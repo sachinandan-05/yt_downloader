@@ -13,9 +13,11 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
+from pathlib import Path
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 import os
-from pathlib import Path
+
 
 MEDIA_URL = '/media/'
 
